@@ -9,6 +9,7 @@ The goal of this anlaysis is to determine what factors in a used car are valued 
 The analysis is using a dataset from kaggle. The original dataset contained information on 3 million used cars. The dataset used for this analysis contains information on 426K cars to ensure speed of processing. Target variable for the analysis is the price of used car
 
 ![plot](./images/targetvardistri.png)
+![plot](./images/targetvardistri.png)
 
 
 **Modelling & Performance**
